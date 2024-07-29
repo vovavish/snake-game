@@ -1,0 +1,7 @@
+@font-face {
+  font-family: PressStart2P;
+  src:
+    local('PressStart2P-Regular'),
+    url('./PressStart2P-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
